@@ -1,0 +1,8 @@
+*.txt
+/node_modules
+# Ignore photos
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
